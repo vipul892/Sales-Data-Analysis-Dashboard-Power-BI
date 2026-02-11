@@ -31,7 +31,7 @@ Use filters and slicers to explore insights
 
 📸 Preview
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](sales_data_analysis_dashbord.png)
 
 👨‍💻 Author
 Vipul Alsundkar

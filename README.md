@@ -1,5 +1,5 @@
-# Sales-Data-Analysis-Dashboard-Power-BI
-📊 Sales Dashboard (2024–25)
+# Sales-Data-Analysis-Dashboard-Power-BI \\
+📊 Sales Dashboard (2024–25) \\
 📌 Overview
 This project presents an interactive Sales Analysis Dashboard built in Power BI to monitor business performance for the years 2024–25.
 The dashboard provides insights into sales, profit, quantity, brand performance, and state-wise distribution to support data-driven decision-making.
